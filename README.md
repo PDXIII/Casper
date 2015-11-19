@@ -1,4 +1,4 @@
-# Casper-ContactForm
+# Casper-FormMailer
 
 The default theme for [Ghost-Form Mailer](https://github.com/PDXIII/Ghost-FormMailer), which allows sending a contact form with Ghost’ internal Node Mailer module.
 
